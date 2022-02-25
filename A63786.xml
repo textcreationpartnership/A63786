@@ -1,0 +1,456 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth's triumph over errour: or, The routing of the seven false prophets who have all lived in London in lesse then these 20. years: (viz.) Farnam, Bull, weavers, Robbins, Garment husbandmen. Smith, a shooe-maker. Muggleton and Reeve, taylors. Wherein is clearly discovered and confuted all their most blasphemous, damnable, false and rediculous tenents. Themselves and falshoods opened, anatomized, and dissected, and found to be no better then impostures, liers, deluders, and spirituall gypsies. Proved by time the mother of truth, reason, scripture, and their own contradictions. Written by Stephen Proud-love, a lover of the truth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63786</idno>
+            <idno type="STC">Wing T3172A</idno>
+            <idno type="STC">ESTC R219214</idno>
+            <idno type="EEBO-CITATION">99830715</idno>
+            <idno type="PROQUEST">99830715</idno>
+            <idno type="VID">35169</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63786)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35169)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1876:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth's triumph over errour: or, The routing of the seven false prophets who have all lived in London in lesse then these 20. years: (viz.) Farnam, Bull, weavers, Robbins, Garment husbandmen. Smith, a shooe-maker. Muggleton and Reeve, taylors. Wherein is clearly discovered and confuted all their most blasphemous, damnable, false and rediculous tenents. Themselves and falshoods opened, anatomized, and dissected, and found to be no better then impostures, liers, deluders, and spirituall gypsies. Proved by time the mother of truth, reason, scripture, and their own contradictions. Written by Stephen Proud-love, a lover of the truth.</title>
+               </titleStmt>
+               <extent>[4], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.C. &amp; T.W. for Tho. Lambert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1: A true relation and description of seven pretended prophets, and their false and blasphemous tenets, which have lived, and been iu the City of London, all of them within lesse then these twenty years.</note>
+                  <note>Copy stained with some loss of text.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophets --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:35169:1"/>
+               <pb facs="tcp:35169:1"/>
+Truth's Triumph over Errour: OR, The Routing of the Seven falſe PROPHETS, Who have all lived in London in leſſe then theſe 20. Years: <hi>(VIZ.)</hi>
+            </p>
+            <p>
+               <list>
+                  <item>
+                     <list>
+                        <head>Weavers.</head>
+                        <item>
+                           <hi>Farnam,</hi>
+                        </item>
+                        <item>
+                           <hi>Bull,</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Husband<g ref="char:EOLhyphen"/>men.</head>
+                        <item>
+                           <hi>Robbins,</hi>
+                        </item>
+                        <item>
+                           <hi>Garment</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Smith,</hi> a Shooe-maker.</item>
+                  <item>
+                     <list>
+                        <head>Taylors.</head>
+                        <item>
+                           <hi>Muggleton</hi> and</item>
+                        <item>
+                           <hi>Reeve,</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Wherein is clearly diſcovered and confuted all their moſt Blaſphemous, damnable, falſe and rediculous Tenents.</p>
+            <p>Themſelves and Falſhoods opened, Anatomized, and diſ<g ref="char:EOLhyphen"/>ſected, and found to be no better then Impoſtures, Liers, Deluders, and <hi>Spirituall Gypſies.</hi>
+            </p>
+            <p>Proved by <hi>Time</hi> the Mother of <hi>Truth, Reaſon, Scriptvre,</hi> and their own <hi>Contradictions.</hi>
+            </p>
+            <q>
+               <bibl>Matth. 7. 15.</bibl>
+               <p>Beware of falſe <hi>Prophets,</hi> which come to you in ſheeps cloathing, but inwardly are ravening Wolves.</p>
+            </q>
+            <p>Written by <hi>Stephen Proud-love,</hi> a Lover of the Truth.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. C.</hi> &amp; <hi>T. W.</hi> for <hi>Tho. Lambert,</hi> 1653.</p>
+            <pb facs="tcp:35169:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35169:2"/>
+            <head>THE EPISTLE TO The READER.</head>
+            <p>COurteous Reader, I that am the leaſt of the ſer<g ref="char:EOLhyphen"/>vants of Love, yet through that little faith in the Love, I have taken upon me to lay open the grea<g ref="char:EOLhyphen"/>teſt and horriddeſt blaſphemy againſt the God of Love, that (in my underſtanding) ever was broa<g ref="char:EOLhyphen"/>ched ſince man had a being, the very thoughts whereof maketh my heart to tremble, and my ſoule as it were to go backwards, according to that ſpeech, in the 9th of Jer. verſe <hi>1.</hi> Oh that my head were a well of water, and mine eyes a foun<g ref="char:EOLhyphen"/>taine of tears. <hi>&amp;c.</hi>
+            </p>
+            <p>Therefore I do deſire loving Friends and Readers, that yee would be pleaſed to judge ſo favourably of all things herein con<g ref="char:EOLhyphen"/>tained, as it is declared in the ſimplicity and innocency of the Authours ſpirit, and not out of any malice or envy; for here I take the eternall God to witneſſe, that I am free from all man<g ref="char:EOLhyphen"/>ner of ſpleene againſt any party that is herein concerned, only de<g ref="char:EOLhyphen"/>ſiring in the love of God, according to the ſmall talent, or gift given me from God, to lay open to the world theſe Tenets, which may be as dangers, or ſtumbling blocks to the weak, onely for that end they may ſhun them, and ſeeke for a ſtability where it is to
+<pb facs="tcp:35169:3"/>
+be found, even in our God, where all things, and all ſecurity elſe is to be found; and whatſoever I ſhall here inſert, I ſhall be able to make good from ſeverall witneſſes, as from ſeverall of their owne diſciples, as alſo ſome whom they have curſed, and ſome whom they have neither bleſſed, nor curſed. And this I ſhall oblige my ſelfe to make good at the deſire of any ſhall re<g ref="char:EOLhyphen"/>quire it, who ſhall at all times find me at my dwel<g ref="char:EOLhyphen"/>ling, if they will be pleaſed to inquire for <hi>Stephen Proud love,</hi> in French Alley in Golding-lane.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:35169:3"/>
+            <head>A TRUE RELATION AND Deſcription of ſeven pretended Pro<g ref="char:EOLhyphen"/>phets, and their falſe and Blaſphemous Tenets, which have lived, and been in the City of <hi>London,</hi> all of them within leſſe then theſe twenty years.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He firſt two that I have knowne in the aboveſayd time, were two Weavers by trade, whoſe Names were, the one <hi>Bull,</hi> and the other <hi>Farnam,</hi> who pretended, and called themſelves, the laſt Prophets, or the two witneſſes, of whom menti<g ref="char:EOLhyphen"/>on is made in <hi>Revel.</hi> 11. who did declare; That they had power to ſtop the heavens that it ſhould not raine, and likewiſe when it was their pleaſure to pray againe, the heavens ſhould be opened, and ſhould ſend forth her raine. Secondly, that no Magiſtrate ſhould have power over their bodies, neither ſhould any one kill them by violence. Thirdly, that they ſhould live to ſee the ſacking of <hi>Jeruſalem.</hi> Fourthly, <hi>Farnam</hi> had a boy whom they affirmed ſhould beat a Drumme at the ſacking thereof. Fiftly, that Jeſus Chriſt ſhould have a temporall Monarchy here upon earth, and both theſe held theſe hereticall Tenets, and did firmely believe that it
+<pb n="2" facs="tcp:35169:4"/>
+ſhould be ſo, but time that manifeſts all truthes, hath clearly evidenced to the world their fallaſies, and there<g ref="char:EOLhyphen"/>fore I need not to make any larger deſcription of them, ſeeing they are long ſince dead by the plague, when they were both priſoners, which was the juſt Judgment of God upon them for their baſe deceivable qualities. And there<g ref="char:EOLhyphen"/>fore I conclude theſe, and ſo go on to the next.</p>
+            <p>The ſecond two pretended Prophets, is <hi>John Robbins;</hi> and <hi>Joſeph Garment,</hi> who are both yet alive; who did de<g ref="char:EOLhyphen"/>clare that they were God, and had power to raiſe the dead: and ſecondly, by the clapping of their hands, they were a<g ref="char:EOLhyphen"/>ble to ſtrike with death whomſoever they pleaſed; and thirdly, that they were to be the Jews deliverers; fourthly, that they were able to divide the waters; fiftly, that they ſhould go to <hi>Jeruſalem,</hi> with above a hundred thouſand people, whom they ſhould convoy thither, with many o<g ref="char:EOLhyphen"/>ther rediculous and hereticall tenets, not worthy the men<g ref="char:EOLhyphen"/>tioning; and therefore I conclude, and go on to the next.</p>
+            <p>The next pretended Prophet, is one <hi>Smith</hi> by name, and a ſhoemaker by trade, who liveth in the County of <hi>Suſſex,</hi> at a town called <hi>Tillington,</hi> and he doth declare; firſt, that he held the Lord Jeſus Chriſt by the hand, for the ſpace <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f five houres together, with whom he had ſeveral diſco<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſes all that time; ſecondly, that he had received o<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> from the Lord Jeſus Chriſt, to make a new ſort of Paper without any ſize, whereupon he ſhould cauſe the Bible to be reprinted for its preſervation; thirdly, that upon <hi>New-yeares day</hi> laſt there ſhould be a general reſurrection of all the beaſts, and that they ſhould come terribly upon the Earth to claim their skins of mankind, and whomſoever they ſhould finde their skins upon, they would deſtroy with deſperate violence, with many other fooliſh abſurdi<g ref="char:EOLhyphen"/>ties, not worth the relating.</p>
+            <div type="section">
+               <head>A Deſcription of the laſt two pretended Prophets, and their Tenents.</head>
+               <p>THe firſt whereof is <hi>John Reve</hi> by name, and a Taylour by trade, the other <hi>Lodowick Muggleton</hi> a Tailour alſo,
+<pb n="3" facs="tcp:35169:4"/>
+both living neer unto the ſigne of the Owle in <hi>Trinity lane</hi> in <hi>London;</hi> the firſt of theſe, <hi>John Reve</hi> doth declare, that in the beginning of February laſt was twelve moneth, he re<g ref="char:EOLhyphen"/>ceived a commiſſion from God, by voice of words, and that <hi>Lodowick Muggleton</hi> was given unto him to bee his mouth, as <hi>Aaron</hi> was to <hi>Moyſes,</hi> and that they both together were commiſſionated to go forth and declare unto this bloudy world, (as they call it) what every ones eſtate and conditi<g ref="char:EOLhyphen"/>on was, &amp; whoſoever they ſhould pronounce the ſentence of damnation unto, ſhould be damned to all eternity, and their eſtates blaſted; and whoever they ſhould pronounce to be bleſſed, or ſaved, ſhould be partakers of Salvation, and that to all eternity; by means wherof, like crafty fou<g ref="char:EOLhyphen"/>lers they caught ſome few ſimple hearted ones into there ſnare, and pronounced them bleſſed, juſt as I have ſeene ſome do by little children, giving them counters to play with, and ſaying, or making them believe it was gold, ſo theſe pretended Prophets makes their diſciples to believe, that by their ſpeaking of a few words unto them, they do become the bleſſed of God for ever; but on the contrary, if that any ſhould ſeem to neglect, or ſlight their commiſ<g ref="char:EOLhyphen"/>ſion, or ſhould not approve of their interpretation of ſcrip<g ref="char:EOLhyphen"/>tures, then they damne them to all eternity, whereby they have frighted, and terrified the hearts and ſpirits of ſome other ſimple hearted people; juſt as the Church of <hi>Rome</hi> doth by their excommunications.</p>
+               <p>The Author of this ſhort Treatiſe hearing of theſe men, who aſſumed unto themſelves ſuch power, did deſire to be acquainted with them, and at the firſt meeting, did aske them theſe three queſtions, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>1. Whether God had the perſon of a man, and whether he had an audible voice?</item>
+                  <item>2. Whether or no they could erre, or were incident to failings as other men were?</item>
+                  <item>3. Whether or no they could write ſcriptures ſo good as thoſe, which are already written by <hi>Moyſes,</hi> the other Prophets, the Evangeliſts, and the Apoſtles?</item>
+               </list>
+               <p>
+                  <pb n="4" facs="tcp:35169:5"/>
+To all which, they thus, or to the like effect anſwered.</p>
+               <p>To the firſt, that God had an audible voice, and that he was in the perſon of a man from al eternity, and that there was not, is not, nor never ſhall be any other God but the ſame Lord Jeſus Chriſt, which was born of the Virgin <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> and ſuffered at <hi>Jeruſalem,</hi> and that the world and all things elſe, was only, and alonely made by him, and that when this Lord Jeſus Chriſt was incarnate, and in his mi<g ref="char:EOLhyphen"/>nority, and at his ſufferings, and in the grave, then there was no God in heaven, nor in earth, the government of all things for that time being committed to <hi>Moyſes</hi> and <hi>Elias;</hi> and whatſoever God ſhould be profeſſed by any, they had power, both to curſe, and to damne them and their pro<g ref="char:EOLhyphen"/>feſſours.</p>
+               <p>To the ſecond, they plainly declared that they could not erre nor faile, and were both alike minded, for they had an infallible ſpirit, by the which they were able to diſcern all things: neither could any man deceive them, neither could any ſickneſs or any diſeaſe ſeize upon their bodies, neither ſhould they ever commit any ſinne, neither at their death ſhould they have the like fear and trouble in the leaſt, as the Lord Jeſus Chriſt had when he ſuffered.</p>
+               <p>To the third they anſwered, that <hi>Moyſes,</hi> the other Pro<g ref="char:EOLhyphen"/>phets and Apoſtles had never the like light given them, nor the like power in ſpirituall things as they had, they being under the third and laſt diſpenſation; as they terme it, the diſpenſation of the ſpirit, therefore able to write Scriptures more then they al, and that there hath not been any man theſe fourteen hundred years paſt, that ever hath ſpoken truth, from or truely opened any text of ſcripture, till they received their Comiſſion.</p>
+               <p>To all which, I thus reply:</p>
+               <p>I do believe and declare unto the whole world, that that eternall, everliving, and all ſufficient, only wiſe God, who had his being of himſelfe, and in himſelfe, ſending forth all things, as of, ſo from, himſelfe; and againe retracting or drawing all things into himſelfe againe, is not to be com<g ref="char:EOLhyphen"/>prehended,
+<pb n="5" facs="tcp:35169:5" rendition="simple:additions"/>
+known, or declared to be what he is in his E<g ref="char:EOLhyphen"/>ternall or Eſſentiall being; for how can the Mortall de<g ref="char:EOLhyphen"/>clare or make manifeſt the Immortall; the Creature the Creator; for the pot at furtheſt onely manifeſts that it is made, but doth not know his Maker, neither can it ſo much as know his voyce; Then how can mortall man know the voyce of the Immortall God, which makes the Rocks to rend in pieces? Ye how terrible was the voyce of God to the <hi>Iſraelites</hi> at Mount <hi>Sinai,</hi> that they never deſired to hear it any more, wherefore they deſired that <hi>Moſes</hi> might ſpeak with them, and not God any more?</p>
+               <p>And ſecondly, whereas they do declare, that they can<g ref="char:EOLhyphen"/>not ſin at all, nor erre at any time, nor fail in their judge<g ref="char:EOLhyphen"/>ments; I my ſelf with many others can witneſſe ſeverall paſſages to the contrary, and let all reaſonable men judge if raſh anger, raſh judgement, cenſuring and back-biting be not ſinne: Again, I with many others is able to teſti<g ref="char:EOLhyphen"/>fie againſt them to their faces, how they have failed and erred in judgement; for whereas they both affirmed that they were both endued, lighted, and guided by one and the ſelf-ſame infallible ſpirit, that no man was able to deceive them, or go about it, but they ſhould be able to deſcern their hypocriſie or deceit.</p>
+               <p>They having in my hearing, and in the hearing of ſome others pronounced the ſentence of Damnation upon a man; I asked whether or no this ſentence could not be revok'd upon the parties humiliation and acknowledge<g ref="char:EOLhyphen"/>ment of his Errour; the one of them, to wit, <hi>Muggleton,</hi> anſwered it might; then I asked the other, to wit, <hi>Reeve,</hi> the ſame queſtion, and he anſwered and ſaid, It could not; by meanes whereof they did contend one againſt another, which ſhews they were of a different judgement: Again, the ſaid pretended Prophet <hi>Reeve</hi> having in my ſight with a many others pronounced the ſentence of bleſſedneſs and ſalvation to a Gunſmith in the <hi>Minories,</hi> his fellow Pro<g ref="char:EOLhyphen"/>phet did within a quarter of an hour pronounce the ſen<g ref="char:EOLhyphen"/>tence of damnation upon the ſame party, and alſo the bla<g ref="char:EOLhyphen"/>ſting of his Eſtate.</p>
+               <p>
+                  <pb n="6" facs="tcp:35169:6"/>
+Again, not long ſince being in company with the fore<g ref="char:EOLhyphen"/>ſaid two pretended Prophets, and ſome other company, there came in a Gentleman whom they had damned three months before, or thereabouts; but the ſaid Gentleman not taking notice that ever he had ſeen them before, car<g ref="char:EOLhyphen"/>rying himſelf very fairly and ſeemingly, did approve of their judgements, by which meanes he did obtain their good liking, inſomuch that they both declared they had nothing againſt him, but that he might have the Bleſſing, whereupon the Gentleman called them a couple of Loger-heads, ſaying, Are you the Prophets of the Lord, &amp; doth not know that ye have already ſentenced me to damnati<g ref="char:EOLhyphen"/>on, by all which (good people) ye may ſee their groſs fail<g ref="char:EOLhyphen"/>ings, and that they may be ſubject to ſin, errour, and miſ<g ref="char:EOLhyphen"/>takes, notwithſtanding their great boaſting, that if any ſhould come into their company whom before they had curſed, they ſhould diſcern and know him, although he ſhould never ſo much diſguiſe himſelf.</p>
+               <p>And thirdly, theſe two pretended Prophets do not on<g ref="char:EOLhyphen"/>ly aſſume unto themſelves a Prerogative and power above and beyond <hi>Moſes</hi> &amp; the other Prophets and Apoſtles in the knowledge of the mind and wil of God in the Scriptures, but alſo that they can both adde to theſe Scriptures, and diminiſh from them, ſaying, Whatſoever they ſhall not approve of to be Scripture, is no Scripture at all, and ſo hath cut off all <hi>Salomons</hi> Writings, and the Book of <hi>Job</hi> to be any part of the Scripture, by means whereof there is a great ſtumbling block laid before the weak, who in the ſincerity of their hearts are ſeeking the Lord, and hath e<g ref="char:EOLhyphen"/>ver had theſe Books in eſteem, as all other Scripture; nay; and ſome have ſaid, that they may as well queſtion all the other Scriptures as theſe.</p>
+               <p>Now I would queſtion whether or no theſe men that thus adde to, and diminiſh at their pleaſure from the word of God, be not ſuch as comes under that ſentence menti<g ref="char:EOLhyphen"/>oned in the 22. of the <hi>Revel. Curſed is every one that addes or diminiſhes from the words which are written in this Book, and ſo the plagues which are written therein to be juſtly due unto them.</hi>
+               </p>
+               <p>
+                  <pb n="7" facs="tcp:35169:6" rendition="simple:additions"/>
+And likewiſe that theſe pretended Prophets may not be the ſame falſe deceiving Prophets which our Lord and Saviour Jeſus Chriſt bids uſe beware, and take heed of in the 7. of <hi>Matth.</hi> ver. 15. therefore I have here inſerted their Tenets as followeth.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="text">
+                           <head>Severall Tenets holden by theſe pretended Prophets.</head>
+                           <p n="1">
+                              <hi>1.</hi> THe God whom they worſhip and ſerve hath not onely an Au<g ref="char:EOLhyphen"/>dible voyce, but alſo the body of a man diſcribing him to be a little ſhorter then the Authour of this Book, and a little taller then the ſaid Prophet <hi>Reeve,</hi> nay he was the pitch of a yong Gen<g ref="char:EOLhyphen"/>tleman whom they have bleſſed.</p>
+                           <p n="2">
+                              <hi>2.</hi> That there is a place or Earth above the ſtarrs, wherein this bodily God doth reſide, and out of which he created this naturall Earth upon which we live, and that in that upper or Firmamen<g ref="char:EOLhyphen"/>tall Earth there are Seas, with all maner of Fiſhes, and that there is all manner of Beaſts and Fowls, and there is the place or habi<g ref="char:EOLhyphen"/>tation of the bleſsed Angels, as alſo of the Saints aforeſaid.</p>
+                           <p n="3">
+                              <hi>3.</hi> That the body and ſoul doth both depart this life, and dye to<g ref="char:EOLhyphen"/>gether, and ſo continueth unto the Reſurrection.</p>
+                           <p n="4">
+                              <hi>4.</hi> That after the Generall Reſurrection this Earth upon which we now live ſhall be a place whereupon all the damned ſhall reſide and be tormented for ever.</p>
+                           <p n="5">
+                              <hi>5.</hi> This ſhall be the torment wherewith the ſaid damned ſhould be tormented, that their body ſhould be as Brimſtone, and their ſpi<g ref="char:EOLhyphen"/>rit as fire, there to burn and be tormented for ever; and that there ſhould be no outgoing nor incomming of any of the ſences, whereby they ſhould have the leaſt comfort or pleaſure in any thing.</p>
+                           <p n="6">
+                              <pb n="8" facs="tcp:35169:7"/>
+                              <hi>6.</hi> Whereas ſome have declared, and a many more may de<g ref="char:EOLhyphen"/>clare, that they have received the aſſurance to themſelves of Gods Love in Jeſus Chriſt; yet theſe doth declare, that it is nothing, nor of no worth, if they ſhould declare the contrary, whereby they make themſelves to be above God himſelf.</p>
+                           <p n="7">
+                              <hi>7.</hi> That whoſoever did not work for them, were (all ſure as there were a God in Heaven) damn'd to all Eternity: There being once an old man in company whom they had formerly damd ſpoke to the Prophet <hi>Reeve</hi> to fall to his work again, he did plain<g ref="char:EOLhyphen"/>ly declare in the hearing of a many, that as ſure as there was a God in heaven, whoſoever did not work for them was damn'd to all eternity; further ſaying, Old man there's a doctrine for you.</p>
+                           <p n="8">
+                              <hi>8.</hi> That moſt of all thoſe who had drawn the Sword in theſe warrs, were as ſure as there was a God in Heaven, damn'd to all Eternity, and that Generall <hi>Cromwell</hi> himſelf if he ſhould de<g ref="char:EOLhyphen"/>ſpiſe their Commiſſion, they would pronounce him a damn'd Re<g ref="char:EOLhyphen"/>probate.</p>
+                           <p n="9">
+                              <hi>9.</hi> That all Miniſters, Lawyers, Phyſitians, and whoſoever go<g ref="char:EOLhyphen"/>eth to Law, or whoſoever taketh Phyſick for the recovery of their healths, are in the ſtate of damnation.</p>
+                           <p n="10">
+                              <hi>10.</hi> That all thoſe whom they damn in this world ſhould never neither in this world; nor in the world to come, ſee, or know any other Gods but them.</p>
+                           <p n="11">
+                              <hi>11.</hi> That whoſoever they declared, or ſentenced to be bleſſed, ſhould daily more and more encreaſe in faith, and more and more daily ſhould have power over ſin; and at a time, one whom they bad bleſſed, declaring plainly that he had not as yet found any ſuch effects wrought on him, they told him that their faith ſhould uphold him till he had received faith of his own.</p>
+                           <p n="12">
+                              <hi>12.</hi> One asking them how they ſhould attain to their faith; they told him, that they muſt caſt away al Ordinances, as praying, hearing, and the like, and beleeve them to be thoſe two Prophets before-mentioned ſent of God.</p>
+                           <p n="13">
+                              <hi>13.</hi> If that God ſhould not maintain them without working, they would never ſerve ſuch a God.</p>
+                           <p n="14">
+                              <hi>14.</hi> That their God is wiſer, and knoweth more to day then yeſterday, and ſo continually encreaſeth in wiſdom &amp; knowledge.</p>
+                           <p n="15">
+                              <pb n="9" facs="tcp:35169:7"/>
+                              <hi>15.</hi> That the Judges of this Land together with the Miniſters and Magiſtrates are thoſe that ſhall be caſt into the Lake alive.</p>
+                           <p n="16">
+                              <hi>16.</hi> If they ſhould be brought before Authority for this their judgement or practice, they ſhould not be half ſo fearfull to ſuffer death as Jeſus Chriſt himſelf was.</p>
+                           <p>I have alſo often obſerved one cheating trick or Policie of theſe laſt <hi>2</hi> pretended Prophets, That when any came to reaſon with them; and to put them to it, they would preſently pronounce the ſentence of <hi>damnation</hi> againſt ſuch a one, meerly to ſhun all man<g ref="char:EOLhyphen"/>ner of Diſcourſe with ſuch; ſaying, That they were not to rea<g ref="char:EOLhyphen"/>ſon, or bold Conferrence with the damned.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Now I come to a concluſion, and therefore in the feare of God, and all tenderneſſe of affection, I would entreat all people to be carefull, and take heed of all ſuch falſe decei<g ref="char:EOLhyphen"/>ving and deluding ſpirits, which comes forth with ſuch Meſſages to damn and to curſe, and ſayes that they are ſent of God for that end and purpoſe, which in my judge<g ref="char:EOLhyphen"/>ment is one of the horrideſt blaſphemies that ever I heard of, and a doctrine ſo contrary to the tenor of the whole Goſpel; for our Lord and Saviour Jeſus Chriſt in the 5. Chapter of <hi>Matthew,</hi> pronounces many bleſſings, but theſe two ſaith, That no bleſſing of God ſhall be available upon any that ſhall in the leaſt gainſay them, the power of bleſ<g ref="char:EOLhyphen"/>ſing and curſing being committed to them as the Inſtru<g ref="char:EOLhyphen"/>ments of God for that purpoſe; and this alſo is far con<g ref="char:EOLhyphen"/>trary to <hi>Pauls</hi> Doctrine, who ſaith, <hi>Bleſs and curſe not, know<g ref="char:EOLhyphen"/>ing that ye are thereunto called,</hi> and it hath been ever the pro<g ref="char:EOLhyphen"/>perty of all Saints in all Ages, whenſoever they came to the knowledge, that they themſelves were bleſſed of God, not onely to refrain from Curſing, but even with all their hearts and ſouls, to Bleſs, and to rejoyce themſelves in Bleſſing; but I have known theſe two pretended Prophets with all eagerneſſe and bitterneſſe of ſpirit, to double, and redouble their Curſes upon ſome, calling them Devills, and Reprobated Devils, meerly for not approving their judgements; and therefore for my owne part, I leave them to the judgement of thoſe who ſhall have occaſion to try them hereafter; And ſo I conclude with theſe fol<g ref="char:EOLhyphen"/>lowing Verſes:</p>
+            </div>
+         </div>
+         <div type="part">
+            <div type="verses">
+               <pb n="10" facs="tcp:35169:8"/>
+               <head>¶ Here followeth ſome Verſes of the Authors upon the word BROTHER, to one he ſo called in <hi>London.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>B</hi> BLeſt is that Light, that whomſoere doth ſee,</l>
+                  <l>Doth weare the Crown of Immortalitie.</l>
+                  <l>In this Light life is, and no death at all;</l>
+                  <l>There's all rejoycings, there's no Funerall.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>R</hi> RUn through the world you body, blood &amp; bone,</l>
+                  <l>Take Scenſes with you, and <hi>you</hi> eight, makes one;</l>
+                  <l>Yet were your eight 10000 eight times more,</l>
+                  <l>Ye were no neerer then you were before.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>O</hi> O How the Light rejoyceth in it ſelf,</l>
+                  <l>It hath no reſpect to your worldly pelfe,</l>
+                  <l>It doth not grow, nor doth it ere decline,</l>
+                  <l>It knows no degree between <hi>thine</hi> and <hi>mine.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>T</hi> THe <hi>Darkneſſe</hi> judges all things to be light,</l>
+                  <l>How can this be, when they are meer dark night?</l>
+                  <l>Unleſſe it be as I beleeve and ſay,</l>
+                  <l>That they do ſpeak it out of a <hi>dark day.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>H</hi> HE that's in <hi>Light,</hi> the <hi>light</hi> and he is one,</l>
+                  <l>He through the Father ſhineth like the Son:</l>
+                  <l>World evermore, his glory is ſo great,</l>
+                  <l>That Men and Angels can it not repeat.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>E</hi> EVen ſo the <hi>Darkneſſe</hi> ever loves it ſelf,</l>
+                  <l>That it will part from all things, even from pelf</l>
+                  <l>To uphold its Kingdom, and its glory keep,</l>
+                  <l>It will uſe all formes, it will pray, preach, faſt, &amp; weep.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>R</hi> REnowned Bliſſe, to Thee be ever prayſe,</l>
+                  <l>For in thy <hi>Light</hi> is our full <hi>Length</hi> of <hi>Dayes;</hi>
+                  </l>
+                  <l>We joy in <hi>Thee,</hi> our joy is in no other,</l>
+                  <l>And ſo I end as I began, <hi>Dear Brother.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="verses">
+               <head>¶ <hi>To another</hi> Brother, <hi>whoſe Name is</hi> Miles.</head>
+               <lg>
+                  <l>
+                     <hi>M</hi> MY Mind's at reſt, ſeeing the <hi>Truth</hi> I finde,</l>
+                  <l>That thoſe that ſay we ſee not, are ſtark blinde,</l>
+                  <l>Then judge ye all ye wiſe men I beſeech,</l>
+                  <l>If thoſe that follow blind men ſcape the Ditch.</l>
+               </lg>
+               <lg>
+                  <pb n="11" facs="tcp:35169:8"/>
+                  <l>
+                     <hi>I</hi> I Have known five before run in this ſtraine</l>
+                  <l>Of Blaſphemy, yet all their ends prov'd vain;</l>
+                  <l>And now at laſt comes <hi>Muggleton</hi> and <hi>Reeve,</hi>
+                  </l>
+                  <l>That to delude themſelves do wholly give.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>L</hi> LOrd keep thy Servants in thy love ſo great,</l>
+                  <l>From thoſe deluders and their fond conceit,</l>
+                  <l>That none of thine in them may put their truſt,</l>
+                  <l>Nor ſuch falſe gods as alwayes are unjuſt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>E</hi> EVery Age brings forth all kind of things,</l>
+                  <l>As harmleſs Lambs, &amp; Serpents which have ſtings,</l>
+                  <l>And holy Ones, who ſerves with filiall fear,</l>
+                  <l>And Prophets falſe, who do God curſe and tear.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>S</hi> SO that theſe <hi>Locuſts</hi> can not be the firſt,</l>
+                  <l>Sent late from God, as vermin to be curſt;</l>
+                  <l>And though in a ſhort time God may them blaſt,</l>
+                  <l>I could deſire that they may be the laſt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>SSS</hi> Take one <hi>S</hi> more, and ſo make even,</l>
+                  <l>And in thoſe four can ye not find out <hi>Stephen?</hi>
+                  </l>
+                  <l>If not, let theſe my Verſes be allow'd,</l>
+                  <l>Find you but <hi>Stephen</hi> in <hi>Love,</hi> and I'le be <hi>Proud:</hi>
+                  </l>
+                  <l>Howe're let not my Verſes go to wrack,</l>
+                  <l>Although begot under my Pedling Pack.</l>
+               </lg>
+            </div>
+            <div type="verses">
+               <head>Here followes ſome certain Verſes, pen'd by the Author, who hath ſeen, and knowne, three or four couples, who hath called them<g ref="char:EOLhyphen"/>ſelves Prophets upon the ſame account.</head>
+               <lg>
+                  <l>I Speak the truth within theſe ſixteen year,</l>
+                  <l>Three couple within our Hemiſphere;</l>
+                  <l>And all three couple ſay, they came from God,</l>
+                  <l>From this ſame Text, To plague us with his Rod.</l>
+                  <l>The firſt two Prophets out of <hi>Eſſex</hi> came,</l>
+                  <l>Weavers by Trade, <hi>Farnam</hi> and <hi>Bull</hi> by name;</l>
+                  <l>They proudly ſaid, that we all pray'd in vain,</l>
+                  <l>For till their pleaſure was, it ſhould not rain.</l>
+                  <l>
+                     <pb facs="tcp:35169:9" rendition="simple:additions"/>
+Yet <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſome <gap reason="illegible" resp="#UOM" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> blinde,</l>
+                  <l>The knavery of thoſe two, did quickly finde,</l>
+                  <l>
+                     <hi>Farnam</hi> to <hi>Newgate</hi> they did ſend to preach,</l>
+                  <l>And <hi>Bull</hi> in <hi>Old-Bridewell</hi> there muſt teach.</l>
+                  <l>So that between <hi>Newgate,</hi> and <hi>Bridewels</hi> whipping-Post,</l>
+                  <l>Theſe Prophets quickly both their Faiths had loſt;</l>
+                  <l>Then thoſe ſilly ones whom they had led herein,</l>
+                  <l>When they ſaw this, Cry'd Lord great is our ſin.</l>
+                  <l>The other two blaſphemers from the Text,</l>
+                  <l>Was <hi>Robbins,</hi> and <hi>Garment,</hi> they came next;</l>
+                  <l>And we have witneſſe that <hi>Robbins</hi> oft hath ſayd,</l>
+                  <l>That he hath power, both over quick and dead:</l>
+                  <l>And he kept his diſciples at ſuch a bay,</l>
+                  <l>That they to none, but to himſelfe ſhould pray;</l>
+                  <l>And further ſaid, they ſhould not pray in vain,</l>
+                  <l>For he the heavenly <hi>Manna</hi> would down rain.</l>
+                  <l>Now the laſt two; is <hi>Reves</hi> and <hi>Muggleton,</hi>
+                  </l>
+                  <l>That comes amongſt us with their damning doom;</l>
+                  <l>They ſay they will ſpare none great nor ſmall,</l>
+                  <l>For if ye croſſe their way, they'le damn you all.</l>
+                  <l>But this they ſay again to comfort you;</l>
+                  <l>That if ye can believe that they are true,</l>
+                  <l>What though ye ſin? ye need not to diſpaire<g ref="char:punc">▪</g>
+                  </l>
+                  <l>For they of Soul and Body both take care.</l>
+                  <l>Now O ye Powers that bears the ſway</l>
+                  <l>Under the true God, I do you obey,</l>
+                  <l>And I deſire that ye theſe men would ſound,</l>
+                  <l>And if in them the truth of God be found,</l>
+                  <l>Let them be honored by you as is meet,</l>
+                  <l>Proſtrating your honours at their feet;</l>
+                  <l>But if ye find them in your wiſedomes great,</l>
+                  <l>A paire of Knaves; living upon deceit.</l>
+                  <l>I pray you ſet them to their work againe,</l>
+                  <l>And not idlely ſo to live on others paine;</l>
+                  <l>There Trade is good, I ſpeak it as a friend,</l>
+                  <l>For I am ſure they can both make and mend,</l>
+                  <l>They on their Shop-board there may command all</l>
+                  <l>Thoſe little creatures, red, white, black, and all,</l>
+                  <l>And if theſe creatures chance for to rebell,</l>
+                  <l>Then power they have to dam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in their hel.</l>
+               </lg>
+               <trailer>Finis.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
